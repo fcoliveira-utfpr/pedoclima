@@ -37,7 +37,7 @@ Região Sul do Brasil (Paraná, Santa Catarina e Rio Grande do Sul).
 
 ### 4.2 Dados de solo
 
-- FEBR / SoilData (Laboratório de Pedometria – UTFPR)
+- SoilData 
 - BDSolos / PronaSolos (Embrapa)
 
 Os dados serão filtrados para a camada de 0–20 cm e harmonizados quanto ao método analítico e à profundidade.
@@ -96,7 +96,7 @@ As covariáveis serão extraídas em Python com Google Earth Engine.
 ## 8. Equipe e infraestrutura
 
 - Coordenação: grupo GAMBI-TEC, UTFPR Campus Santa Helena.
-- Possíveis colaborações: Laboratório de Pedometria da UTFPR (FEBR) e NAPI Prosolo / Rede Agropesquisa.
+- Possíveis colaborações: Laboratório de Pedometria da UTFPR.
 - Infraestrutura: Python e Google Earth Engine, sem custo de licença de software.
 
 ## 9. Produtos esperados
